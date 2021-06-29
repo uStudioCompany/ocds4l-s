@@ -1,1 +1,99 @@
 code,description
+31,Nonfinancial assets
+311,Fixed assets
+3111,Buildings and structures
+31111,Dwellings
+31112,Nonresidential buildings
+31113,Other structures
+31114,Land improvements
+3112,Machinery and equipment
+31121,Transport equipment
+31122,Other machinery and equipment
+311223,ICT equipment
+3113,Other fixed assets
+31131,Cultivated assets
+311311,"Livestock for breeding, dairy, draught etc"
+311312,"Vineyards, orchards and other plantations of trees yielding repeat products"
+31132,Intangible fixed assets
+3114,Intellectual property products
+31141,Research and development expenditure
+31142,Mineral exploration and evaluation
+31143,Computer software and databases
+311431,Computer software
+311432,Databases
+31144,"Entertainment, literary or artistic originals"
+31145,Other intellectual property products
+3115,Intangible fixed assets
+3116,Costs of ownership transfer on non produced assets
+3117,Military assets
+31171,Military stocks
+31172,Strategic stocks
+312,Inventories
+3121,Strategic stocks
+3122,Other inventories
+31221,Materials and supplies
+31222,Work in progress
+312221,Work in progress on cultivated assets
+312222,Other work in progress
+31223,Finished goods
+31224,Goods for resale
+313,Valuables
+3131,Precious metals and stones
+3132,Antiques and other art objects
+3133,Other valuables
+314,Nonproduced assets
+3141,Land
+31411,Natural land under buildings and structures and associated surface water
+31412,Natural land under cultivation and associated surface water
+31413,Natural recreational land and associated surface water
+31414,Other natural land and associated surface water
+3142,Subsoil assets
+3143,Other naturally occurring assets
+3144,Intangible nonproduced assets
+3145,Natural resources
+31451,Subsoil assets
+314511,"Coal, oil and mineral gas reserves"
+314512,Metallic mineral reserves
+314513,Non-metallic mineral reserves
+31452,Non-cultivated biological resources
+314521,Natural forests
+314522,Other crop and plant resources
+314523,Wild stocks of fish and aquatic mammals
+3145231,In national waters including EEZ
+3145232,Outside EEZ
+31453,Water resources
+314531,Aquifers
+314532,Other
+31454,Other natural resources
+314541,Radio spectra
+314542,Other
+3146,Contracts\, leases and licences
+31461,Third party property rights
+314611,Marketable operating leases
+314612,Permissions to use natural resources
+31462,Entitlement to future goods and services on an exclusive basis
+314621,Of nominated legal persons
+314622,Of future production
+3147,Goodwill and marketing assets
+32,Financial Assets
+321,Monetary gold and SDRs
+3202,Currency and deposits
+32021,Currency
+32022,Transferable deposits
+32023,Other deposits
+3203,Securities other than shares
+32031,Short-term
+32032,Long-term
+3204,Loans
+32041,Short-term
+32042,Long-term
+3205,Equity and investment fund shares
+3206,Insurance\, pension, and standardized guarantee schemes
+32061,Net equity of households in life insurance reserves and in pension funds
+320611,Net equity of households in life insurance reserves
+320612,Net equity of households in pension funds
+32062,Prepayment of premiums and reserves against outstanding claims
+3207,Financial derivatives and employee stock options
+3208,Other accounts receivable / payable
+32081,Trade credit and advances
+32082,Other
