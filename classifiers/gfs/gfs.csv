@@ -12,8 +12,8 @@ code,description
 311223,ICT equipment
 3113,Other fixed assets
 31131,Cultivated assets
-311311,"Livestock for breeding, dairy, draught etc"
-311312,"Vineyards, orchards and other plantations of trees yielding repeat products"
+311311,Livestock for breeding\, dairy\, draught etc
+311312,Vineyards\, orchards and other plantations of trees yielding repeat products
 31132,Intangible fixed assets
 3114,Intellectual property products
 31141,Research and development expenditure
@@ -21,7 +21,7 @@ code,description
 31143,Computer software and databases
 311431,Computer software
 311432,Databases
-31144,"Entertainment, literary or artistic originals"
+31144,Entertainment\, literary or artistic originals
 31145,Other intellectual property products
 3115,Intangible fixed assets
 3116,Costs of ownership transfer on non produced assets
