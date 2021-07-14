@@ -10,11 +10,11 @@ Organizations have many methods they use to dispose of assets that no longer gen
 
 ## Idea!
 
-The Open Contracting Data Standard (OCDS) is already used to describe millions of procurement processes around the world relating to goods, services and public works. 
+The [Open Contracting Data Standard](https://standard.open-contracting.org/latest/en/) (OCDS) is already used to describe millions of procurement processes around the world relating to goods, services and public works. 
 
-The Statistics Division of a UN  Department of Economic and Social Affairs defines a classification and the rules of transactions in financial and non-financial assets.
+The [Statistics Division of a UN  Department of Economic and Social Affairs](http://unstats.un.org/unsd/) defines a classification and the rules of transactions in financial and non-financial assets.
 
-The Public Procurement and Asset Disposal Regulations by the WorldBank define a framework of information related to a disclosure of information on a public asset disposals.
+The [Public Procurement and Asset Disposal Regulations](https://ppp.worldbank.org/public-private-partnership/library/public-procurement-and-asset-disposal-regulations) by the WorldBank define a framework of information related to a disclosure of information on a public asset disposals.
 
 This concept describes how to combine contract level disclosures using OCDS with project-level disclosure based on the data-framework by the WorldBank, Government Financial Statistics Classification of Public Assets and the Classification of the Functions of Government, in order to support scalable disclosure and monitoring of disposal project identification, preparation, implementation and completion.
 
