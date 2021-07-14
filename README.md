@@ -1,4 +1,4 @@
-# OCDS4L&S: Open Data standard for Lease and Sale of the Public Assets
+# OCDS4L&S: Open Data standard \nfor Lease and Sale of the Public Assets
 
 Most literature on public procurement describes assets’ disposal as the last phase of the public procurement process. The disposal of public assets, irrespective of the method used, is purposed to meet the entity's needs, promote the benefits of asset value recapture, and maintain the entity's path of efficiency, effectiveness, and efficacy. 
 
