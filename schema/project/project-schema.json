@@ -15,6 +15,13 @@
       "type": "string",
       "format": "date-time"
     },
+    "status": {
+      "title":"Status",
+      "description":"The current phase or status of this project, from the disopsalProjectStatus codelist.",
+      "type":"string",
+      "openCodelist":true,
+      "codelist":"disposalProjectStatuses.csv"
+    },
     "parties": {
       "title": "Parties",
       "description": "Information on the parties (organizations, economic operators and other participants) who are involved in the disposal process and their roles",
@@ -121,15 +128,15 @@
           "items": {
             "$ref": "#/definitions/Attempt"
           }
-        },
-        "contracts": {
-          "title": "Contracts",
-          "description": "A list of contracts concluded under this contracting process",
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Contract"
-          }
         }
+      }
+    },
+    "contracts": {
+      "title": "Contracts",
+      "description": "A list of contracts concluded under this contracting process",
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Contract"
       }
     },
     "relatedProcesses": {
@@ -1491,6 +1498,11 @@
       "description": "",
       "type": "object",
       "properties": {
+        "id":{
+          "title":"ID",
+          "description":"Unique identifier of this lot",
+          "type":"string"
+        },
         "title": {
           "title": "",
           "description": "",
